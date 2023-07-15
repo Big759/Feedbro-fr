@@ -255,7 +255,7 @@
     "options_scaninterval_body": "Intervalle de scan (par défaut)",
     "options_scaninterval_select_title": "Nombre de minutes à attendre jusqu'à ce que le prochain balayage des éléments non lus dans tous les flux ait lieu.",
     "options_scaninterval_unit_body": "minutes",
-    "options_threads_body": "Nombre.de flux à charger",
+    "options_threads_body": "Nombre de flux à charger",
     "options_threads_select_title": "Nombre de flux à charger simultanément. Nombre plus élevé = mises à jour plus rapides mais charge réseau plus lourde. Utilisez un nombre plus petit si votre bande passante réseau est faible.",
     "options_maxentries_body": "Entrées maximum à sauvegarder (par défaut)",
     "options_maxentries_select_title": "Nombre maximum d'entrées (articles) qui sont chargées à partir d'un seul flux (le flux agrégé peut contenir autant d'entrées que vous le souhaitez)",
