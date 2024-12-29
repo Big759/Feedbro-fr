@@ -328,7 +328,7 @@
     "options_disableautoselect_title": "Si c'est le cas le premier article n'est pas automatiquement sélectionné en mode d'affichage 3 ou 6. ",
     "options_refreshlist_body": "Rafraîchir la liste d'articles à l'ouverture du lecteur RSS",
     "options_refreshlist_input_title": "Si coché Feedbro rechargera automatiquement la liste des articles lorsque la vue de lecture de Feedbro est ouverte. ",
-    "options_allitems_body": "Ouvrir la vue 'Tous les éléments' au démarrage'",
+    "options_allitems_body": "Ouvrir la vue 'Tous les éléments' au démarrage",
     "options_allitems_input_title": "Si cette case est cochée Feedbro ouvrira automatiquement 'Tous les éléments' au démarrage. ",
     "options_sound_body": "Son",
     "options_sound_input_title": "Si coché les effets sonores sont activés.",
