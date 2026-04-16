@@ -292,8 +292,8 @@
     "options_markread_confirm_never_title": "DANGER ! Vous risquez de marquer accidentellement tous vos articles non lus comme lus avec ce paramètre ! Il n'y a pas d'annulation !",
     "options_markread_confirm_allitems_body": "Uniquement pour marquer la vue 'Tous les éléments' comme lus",
     "options_markread_confirm_always_body": "Toujours",
-    "options_notificationclick_body": "Cliquez sur le bouton Notification d'article sur le bureau",
-    "options_notificationclick_select_title": "Définit ce qui se passe lorsque l'utilisateur clique sur le popup de notification du bureau d'un article.",
+    "options_notificationclick_body": "En cliquant sur la Notification de bureau de l'article",
+    "options_notificationclick_select_title": "Définit ce qui se passe lorsque l'utilisateur clique sur la Notification d'alerte de bureau d'un article.",
     "options_notificationclick_feedbro_body": "Ouvre l'article dans Feedbro",
     "options_notificationclick_tab_body": "Ouvre l'article dans un nouvel onglet sur le site d'origine",
     "options_popupclick_body": "Lien vers la liste d'articles de la fenêtre popup",
@@ -549,5 +549,5 @@
     "toolbar_options_title": "Ouvrir la page Feedbro Options/Réglages",
     "toolbar_reload_title": "Recharger le flux ou le dossier sélectionné dans la base de données locale (pas la source du flux) - Raccourci 'r'.",
     "toolbar_prev_title": "Article précédent - Raccourci 'k' ou 'p'.",
-    "toolbar_next_title": "Article suivant - Raccourci ‘j’ ou ‘n’."
+    "toolbar_next_title": "Article suivant - Raccourci 'j' ou 'n'."
 }
